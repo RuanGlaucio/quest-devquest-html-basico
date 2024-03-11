@@ -1,0 +1,52 @@
+th,
+td {
+    padding: 10px;
+}
+
+.titulo-moda {
+    text-align: left;
+    padding: 10px 0;
+    font-weight: bold;
+}
+
+.titulo-casa {
+    text-align: left;
+    padding: 10px 0;
+    font-weight: bold;
+}
+
+.cabecalho-moda {
+    background-color: #bb86fc;
+    color: #ffffff;
+    padding: 20px;
+}
+
+.cabecalho-casa {
+    background-color: #00c4b4;
+    color: #ffffff;
+}
+
+.corpo-tabela-moda {
+    background-color: #424250;
+    color: #ffffff;
+}
+
+.corpo-tabela-casa {
+    background-color: #424250;
+    color: #ffffff;
+}
+
+
+.tabela-casa {
+    margin: 0 20px;
+    font-size: 20px;
+
+}
+
+.tabela-moda {
+    margin: 0 20px;
+    font-size: 20px;
+
+}
+
+/* PODERIA ALTERAR O 'TABLE' E O 'CAPTION', PORÉM SÓ SERIA EFICIENTE EM CASOS ONDE TEM POUCAS TABELAS, MAS NÃO SEI SE EM UM TRABALHO SERIA BOM FAZER ISSO.
